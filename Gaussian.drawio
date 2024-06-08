@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-08T20:00:55.666Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="yW39oyyYcmGFcaGUztHO" version="24.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-08T20:17:27.873Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="JG5M4FjfrcQsdZqR9DnC" version="24.5.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="4397" dy="2150" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5769" dy="3225" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -1463,7 +1463,7 @@
           <mxGeometry x="-78.04899325458291" y="1619.3750000000005" width="604.3978453004607" height="168.7499999999999" as="geometry" />
         </mxCell>
         <mxCell id="1986AtK6y2KFsTvhVVYB-16" value="Нет" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=30;strokeWidth=3;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-182.46733066548245" y="1929.139501787417" width="80" height="50" as="geometry" />
+          <mxGeometry x="-158.04733066548243" y="1949.9995017874169" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="1986AtK6y2KFsTvhVVYB-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;endFill=0;fontSize=30;strokeWidth=3;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1986AtK6y2KFsTvhVVYB-18" target="1986AtK6y2KFsTvhVVYB-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1484,7 +1484,7 @@
           <mxGeometry x="-78.04899325458291" y="2210" width="604.3978453004607" height="168.7499999999999" as="geometry" />
         </mxCell>
         <mxCell id="1986AtK6y2KFsTvhVVYB-23" value="Да" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=30;strokeWidth=3;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="128.16717450254555" y="2098.050216073132" width="60" height="50" as="geometry" />
+          <mxGeometry x="146.99717450254553" y="2120.000216073132" width="60" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
