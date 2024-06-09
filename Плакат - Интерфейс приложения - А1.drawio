@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-09T21:09:35.776Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="tyiayLH4HYk7y6RqqbiS" version="24.5.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-06-09T21:10:32.361Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="FKW9hNJ5iAE-4u4XXWok" version="24.5.2" type="github" pages="2">
   <diagram name="Изнаночная сторона плаката (Background)" id="Рамка_А1_горизонт">
     <mxGraphModel dx="823" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -566,7 +566,7 @@
           <mxGeometry x="4180" y="2190" width="1540" height="50" as="geometry" />
         </mxCell>
         <mxCell id="sasz6gfmjhlbIqZxt6zh-19" value="&lt;font style=&quot;font-size: 70px;&quot;&gt;Вкладка нахождения краев Канни&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=45;" vertex="1" parent="1">
-          <mxGeometry x="4180" y="3970" width="1540" height="50" as="geometry" />
+          <mxGeometry x="4180" y="4020" width="1540" height="50" as="geometry" />
         </mxCell>
         <mxCell id="sasz6gfmjhlbIqZxt6zh-20" value="&lt;font style=&quot;font-size: 70px;&quot;&gt;Вкладка эквализации гистограмм выравниванием яркости&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=45;" vertex="1" parent="1">
           <mxGeometry x="719" y="4020" width="2014" height="50" as="geometry" />
