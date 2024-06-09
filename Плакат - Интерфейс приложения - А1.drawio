@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-09T14:37:09.751Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="C1yLM7ckdCyKyp2xum0T" version="24.5.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-06-09T14:37:52.476Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="YOY3WpzEZPmVVpjW61_R" version="24.5.2" type="github" pages="2">
   <diagram name="Изнаночная сторона плаката (Background)" id="Рамка_А1_горизонт">
     <mxGraphModel dx="823" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -533,7 +533,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Лицевая сторона плаката" id="Лицевая_сторона_плаката">
-    <mxGraphModel dx="5487" dy="4300" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
+    <mxGraphModel dx="16460" dy="12900" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
